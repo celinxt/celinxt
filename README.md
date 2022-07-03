@@ -1,4 +1,4 @@
-<h1>Oi, eu sou o Marcelo Fianco, estudante de programação e apreciador de séries, filmes e animes nas horas vagas ! </h1>
+<h1>Oi, eu sou o Marcelo Fianco, estudante de programação e apreciador de séries nas horas vagas ! </h1>
 
 
 <div align="center">
