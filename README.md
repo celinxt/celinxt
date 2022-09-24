@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/celinxt">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=celinxt&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinxt&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=celinxt&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinxt&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Celin-HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
