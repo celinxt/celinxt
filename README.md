@@ -24,4 +24,4 @@
  </a>
  
   
-  ![Snake animation](https://github.com/celinxt/celinxt/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/celinxt/celinxt/blob/output/github-contribution-grid-snake.svg) -->
