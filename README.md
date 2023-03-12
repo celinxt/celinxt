@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/celinxt">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=celinxt&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinxt&theme=react&layout=compact"/> 
 </div>
   
