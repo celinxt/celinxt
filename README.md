@@ -1,4 +1,4 @@
-## Programming student and watching series in free time!
+## Programming student and watching series on free time!
 
 <div align="center">
 <!--   <a href="https://github.com/celinxt"> -->
