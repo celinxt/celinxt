@@ -1,4 +1,4 @@
-## Estudante de programação e apreciador de séries nas horas vagas !
+## Programming student and watching series in free time!
 
 <div align="center">
 <!--   <a href="https://github.com/celinxt"> -->
