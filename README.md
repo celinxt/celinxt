@@ -1,4 +1,4 @@
-## Web Developer and watching series on free time!
+## Developer and playing games on free time!
 
 <div align="center">
 <!--   <a href="https://github.com/celinxt"> -->
